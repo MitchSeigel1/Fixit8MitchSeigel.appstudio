@@ -29,6 +29,14 @@
             "For_Loop", 
             "For_Loop.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Product", 
+            "Product.json"
+          ]
         }
       ], 
       "configxml": null, 
